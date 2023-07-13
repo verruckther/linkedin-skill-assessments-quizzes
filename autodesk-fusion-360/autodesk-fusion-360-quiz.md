@@ -16,8 +16,8 @@
 
 #### Q3. Which tool measures the precise distance between two points, and creates dimensions that are parallel to the locations of objects?
 
-- [ ] Aligned Dimension
-- [x] Linear Dimension
+- [x] Aligned Dimension
+- [ ] Linear Dimension
 - [ ] Angular Dimension
 - [ ] Ordinate Dimension
 
